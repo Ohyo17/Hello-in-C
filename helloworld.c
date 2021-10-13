@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void) {
 /* This is my first program in C */
-printf("Hello World!");
-printf("I Love C");
-printf("I love coding");
+printf("Hello World!/n");
+printf("I Love C/n");
+printf("I love coding/n");
 return (0);
 }
